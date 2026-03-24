@@ -1,4 +1,12 @@
 # Unimodal-generated-Multimodal-Contrastive-Learning-for-Cross-compression-rate-Deepfake-Detection (UMCL)
+
+## Celebration
+
+Congratulations! Our work has been accepted for publication in IJCV.
+
+- IJCV: https://dl.acm.org/doi/10.1007/s11263-025-02606-0
+- arXiv: https://arxiv.org/abs/2511.18983
+
 UMCL is a multimodal deepfake detection project built for `FaceForensics++ (FF++)`. The model combines three signal sources:
 
 - facial image sequences
@@ -474,3 +482,7 @@ If this code corresponds to a paper, thesis, or internal research project, this 
 - BibTeX
 
 No clear citation metadata was found in this folder, so this README does not invent one.
+Our work has been accepted for publication in IJCV. Congratulations to the team.
+
+- IJCV: https://dl.acm.org/doi/10.1007/s11263-025-02606-0
+- arXiv: https://arxiv.org/abs/2511.18983
